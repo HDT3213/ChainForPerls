@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>background.png</file>
+        <file>g2.png</file>
+        <file>cross.jpg</file>
+    </qresource>
+</RCC>
